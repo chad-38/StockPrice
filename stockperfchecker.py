@@ -6,7 +6,8 @@ end_date = '2021-09-12'
 
 target1 = 'GOOG'
 target2 = 'MSFT'
-target3 = 'CVLT'
+target3 = 'Cgi Inc'
+
 data1 = fin.download(target1, start_date, end_date)
 data2 = fin.download(target2, start_date, end_date)
 data3 = fin.download(target3, start_date, end_date)
