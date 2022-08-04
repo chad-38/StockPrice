@@ -2,7 +2,7 @@ import yfinance as fin
 
 # Set the start and end date
 start_date = '2000-01-01'
-end_date = '2021-09-12'
+end_date = '2022-08-04'
 
 target1 = 'GOOG'
 target2 = 'MSFT'
